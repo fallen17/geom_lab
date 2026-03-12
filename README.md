@@ -1,4 +1,4 @@
-# geom_lab
+# Calc/trapezoid
 EN-en
 Program code_test.cpp can be used to calculate middle line, area and perimeter of any trapezoid. Just input the prompted values and recive immediate results.
 
