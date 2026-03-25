@@ -29,6 +29,7 @@ visota = sqrt( pow(lev_st, 2 ) - pow( ( ( pow( verkh_st - niz_st, 2 ) + (lev_st 
 ploschad = visota * sred_lin;
 
 cout<<"Длина средней линии: "<<sred_lin<<endl;
+// Комментарий для лаб
 cout<<"Периметр: "<<perimetr<<endl;
 cout<<"Площадь: "<<ploschad<<endl;
 
